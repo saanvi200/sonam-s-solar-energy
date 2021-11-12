@@ -1,1 +1,1 @@
-# sonam-s-solar-energy
+# solar_power
